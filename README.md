@@ -5,8 +5,6 @@ AvalonScript is a mIRC-based client that includes very specific functions for th
 
 AvalonScript was created mostly so that I had an easier time in role-playing on DarkMyst and other networks. Several of our players in #Lysharia_OOC have told me that I should make AvalonScript available to people that wants to use this script, after they learned what AvalonScript could do. After some serious thinking on my part, I realized this was a good idea, as it also allows me to easily let people know when a new release has came out for AvalonScript. And thus... AvalonScript was born.
 
-## Getting AvalonScript
-
 **Features**
 
 1. AvalonScript integrates the well-known Voodoo² script from VoodooScript, with the script working fully in every way. If you've had previous mIRC scripting experience and had trouble getting Voodoo to work for you, it may be a result of clashing scripts. That's not an issue here in AvalonScript! (Site seems to be down, though...)
@@ -47,7 +45,7 @@ _______________________________________________<br>
 [¤ Stole image crap from Ghalerion 4.0 as placeholder until I can create my own images. ¤]<br>
 [¤ Stole the start-up script from Ghalerion 4.0. Will also eventually replace the quotes seen during start-up. ¤]
 
-## How to Get AvalonScript
+## Getting AvalonScript
 
 For the purpose of this guide, I will assume that you know how to download and unzip zipped packages, such as the one I use for AvalonScript.
 
