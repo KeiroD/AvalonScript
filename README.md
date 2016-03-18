@@ -9,18 +9,13 @@ AvalonScript was created mostly so that I had an easier time in role-playing on 
 
 **Features**
 
-*1. AvalonScript integrates the well-known Voodoo² script from VoodooScript, with the script working fully in every way. If you've had previous mIRC scripting experience and had trouble getting Voodoo to work for you, it may be a result of clashing scripts. That's not an issue here in AvalonScript! (Site seems to be down, though...)
-
-*2. A highlight manager that enables you to keep track of highlights across multiple networks in one handy window!
-
-*3. An auto-ident, ghost, join script that works across multiple networks. This allows you to configure mIRC to automatically identify yourself and join various channels as soon as you start mIRC and tell it to connect to your usual servers.
-
-*4. A lag-bar system that helps you keep track of lag across multiple networks. Handy for when you're not sure if your posts are going through slowly, or if posts are coming through slowly for whatever reason.
-
-*5. A DarkEngine script that helps you barf out your computer's specifications if someone's trying to help you fix your computer, or if you just want to brag that you've got an awesome computer.
-
-*6. A custom theme that I've written for AvalonScript. It is editable for those who are familiar with mIRC scripting.
- PM manager engine has been added, for those who would prefer not to deal with PMs from people that they do not wish to speak to.
+1. AvalonScript integrates the well-known Voodoo² script from VoodooScript, with the script working fully in every way. If you've had previous mIRC scripting experience and had trouble getting Voodoo to work for you, it may be a result of clashing scripts. That's not an issue here in AvalonScript! (Site seems to be down, though...)
+2. A highlight manager that enables you to keep track of highlights across multiple networks in one handy window!
+3. An auto-ident, ghost, join script that works across multiple networks. This allows you to configure mIRC to automatically identify yourself and join various channels as soon as you start mIRC and tell it to connect to your usual servers.
+4. A lag-bar system that helps you keep track of lag across multiple networks. Handy for when you're not sure if your posts are going through slowly, or if posts are coming through slowly for whatever reason.
+5. A DarkEngine script that helps you barf out your computer's specifications if someone's trying to help you fix your computer, or if you just want to brag that you've got an awesome computer.
+6. A custom theme that I've written for AvalonScript. It is editable for those who are familiar with mIRC scripting.
+7. PM manager engine has been added, for those who would prefer not to deal with PMs from people that they do not wish to speak to.
 
 More features to come as I receive requests!
 
@@ -56,10 +51,10 @@ _______________________________________________<br>
 
 For the purpose of this guide, I will assume that you know how to download and unzip zipped packages, such as the one I use for AvalonScript.
 
-Now, let's get started and download AvalonScript. There are two versions of AvalonScript available for release. The only difference is the color options available, as they are essentially identical.
+Now, let's get started and download AvalonScript.
 
-(AvalonScript)[https://dropbox.com/s/9lu73pqjj1x4sht/AvalonScript.zip] is the most current version of **AvalonScript**. We are working on moving AvalonScript to Github.
+[AvalonScript](https://dropbox.com/s/9lu73pqjj1x4sht/AvalonScript.zip) is the most current version of **AvalonScript**. We are working on moving AvalonScript to Github.
 
-Extract it to wherever you wanted to place it.
+Extract it to wherever you wanted to place it. Finally, run AvalonScript by launching mirc.exe and customize to your liking.
 
 **Note: Do not extract this over your default mIRC install! If you ignore this warning, it is entirely _your_ fault!**
