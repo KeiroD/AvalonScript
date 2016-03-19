@@ -34,8 +34,8 @@ _______________________________________________
 [¤ Replaced image placeholders stolen from Ghalerion 4.0 with own images for AvalonScript. ¤]<br>
 _______________________________________________
 [¤ v0.1 Changes: ¤]
-[¤ Added nick-coloring to messages posted in channel. This helps to differentiate the nicks in channel if you occasionally get lost in loads of people posting as commonly seen in role-playing channels. ¤]
-[¤ SSL is enabled in mIRC. You will need to have the Visual C++ 2008 Redistributables installed for SSL to work properly. Site is at: [Win32OpenSSL](http://slproweb.com/products/Win32OpenSSL.html) **Addendum: 64-bit SSL does NOT work at this time.** ¤]
+[¤ Added nick-coloring to messages posted in channel. This helps to differentiate the nicks in channel if you occasionally get lost in loads of people posting as commonly seen in role-playing channels. ¤]<br>
+[¤ SSL is enabled in mIRC. You will need to have the Visual C++ 2008 Redistributables installed for SSL to work properly. Site is at: [Win32OpenSSL](http://slproweb.com/products/Win32OpenSSL.html) **Addendum: 64-bit SSL does NOT work at this time.** ¤]<br>
 [¤ To connect to SSL-enabled servers use the :+portnumber suffix in order to connect to a server via SSL. For example to connect to DarkMyst's SSL-enabled servers you'd type /server irc.darkmyst.org:+6697 ¤]<br>
 [¤ Integrated Voodoo script ¤]<br>
 [¤ Integrated highlighter. This script automatically opens a window allowing you to see who highlighted you and when. Even better it shows which network and channel as well! Note: Window doesn't open until someone highlights your current name. ¤]<br>
