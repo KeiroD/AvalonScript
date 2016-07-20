@@ -27,13 +27,13 @@ _______________________________________________<br>
 [¤ Added PM blocker. The controls for that can be found by typing /querycontrol in any message box. ¤]<br>
 [¤ Minor bug-fixes here and there again. ¤]<br>
 [¤ Added some quotes from #Lysharia. ¤]<br>
-_______________________________________________
+_______________________________________________<br>
 [¤ v0.2 Changes: ¤]<br>
 [¤ Added auto-ident/ghost script. ¤]<br>
 [¤ Added dice script. Unfortunately the dice script has been found to not be useful so I've taken out the code for it but left this bit here so I do not need to readd it again later once I've gotten a stable version running in my dev copy. ¤]<br>
 [¤ Replaced image placeholders stolen from Ghalerion 4.0 with own images for AvalonScript. ¤]<br>
-_______________________________________________
-[¤ v0.1 Changes: ¤]
+_______________________________________________<br>
+[¤ v0.1 Changes: ¤]<br>
 [¤ Added nick-coloring to messages posted in channel. This helps to differentiate the nicks in channel if you occasionally get lost in loads of people posting as commonly seen in role-playing channels. ¤]<br>
 [¤ SSL is enabled by default in mIRC. **SSL can be enabled simply by using the below instructions to connect to SSL-enabled servers.** ¤]<br>
 [¤ To connect to SSL-enabled servers use the :+portnumber suffix in order to connect to a server via SSL. For example to connect to DarkMyst's SSL-enabled servers you'd type /server irc.darkmyst.org:+6697 ¤]<br>
@@ -56,3 +56,7 @@ Now, let's get started and download AvalonScript.
 Extract it to wherever you wanted to place it. Finally, run AvalonScript by launching mirc.exe and customize to your liking.
 
 **Note: Do not extract this over your default mIRC install! If you ignore this warning, it is entirely _your_ fault!**
+
+## Documentation
+
+Please see the [Wiki](https://github.com/KeiroD/AvalonScript/wiki) for details on how to use **AvalonScript**
