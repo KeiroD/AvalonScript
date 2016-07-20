@@ -28,14 +28,14 @@ _______________________________________________<br>
 [¤ Minor bug-fixes here and there again. ¤]<br>
 [¤ Added some quotes from #Lysharia. ¤]<br>
 _______________________________________________
-[¤ v0.2 Changes: ¤]
-[¤ Added auto-ident/ghost script. ¤]
+[¤ v0.2 Changes: ¤]<br>
+[¤ Added auto-ident/ghost script. ¤]<br>
 [¤ Added dice script. Unfortunately the dice script has been found to not be useful so I've taken out the code for it but left this bit here so I do not need to readd it again later once I've gotten a stable version running in my dev copy. ¤]<br>
 [¤ Replaced image placeholders stolen from Ghalerion 4.0 with own images for AvalonScript. ¤]<br>
 _______________________________________________
 [¤ v0.1 Changes: ¤]
 [¤ Added nick-coloring to messages posted in channel. This helps to differentiate the nicks in channel if you occasionally get lost in loads of people posting as commonly seen in role-playing channels. ¤]<br>
-[¤ SSL is enabled in mIRC. You will need to have the Visual C++ 2008 Redistributables installed for SSL to work properly. Site is at: [Win32OpenSSL](http://slproweb.com/products/Win32OpenSSL.html) **Addendum: 64-bit SSL does NOT work at this time.** ¤]<br>
+[¤ SSL is enabled by default in mIRC. **SSL can be enabled simply by using the below instructions to connect to SSL-enabled servers.** ¤]<br>
 [¤ To connect to SSL-enabled servers use the :+portnumber suffix in order to connect to a server via SSL. For example to connect to DarkMyst's SSL-enabled servers you'd type /server irc.darkmyst.org:+6697 ¤]<br>
 [¤ Integrated Voodoo script ¤]<br>
 [¤ Integrated highlighter. This script automatically opens a window allowing you to see who highlighted you and when. Even better it shows which network and channel as well! Note: Window doesn't open until someone highlights your current name. ¤]<br>
@@ -51,7 +51,7 @@ For the purpose of this guide, I will assume that you know how to download and u
 
 Now, let's get started and download AvalonScript.
 
-[AvalonScript](https://github.com/KeiroD/AvalonScript/archive/master.zip) is the most current version of **AvalonScript**. We've moved AvalonScript to Github!
+[AvalonScript](https://github.com/KeiroD/AvalonScript/archive/master.zip) is the most current version of **AvalonScript**. Each time I push an update, GitHub will update the archive to use the latest version of mIRC and the code we use.
 
 Extract it to wherever you wanted to place it. Finally, run AvalonScript by launching mirc.exe and customize to your liking.
 
