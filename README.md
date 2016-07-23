@@ -1,9 +1,17 @@
 # AvalonScript
-AvalonScript is a mIRC-based client that includes very specific functions for the purpose of making RP — roleplay, easier.
+`AvalonScript` is a `mIRC`-based client that includes very specific functions for the purpose of making RP — roleplay, easier.
 
 ## What is AvalonScript?
 
-AvalonScript was created mostly so that I had an easier time in role-playing on DarkMyst and other networks. Several of our players in #Lysharia_OOC have told me that I should make AvalonScript available to people that wants to use this script, after they learned what AvalonScript could do. After some serious thinking on my part, I realized this was a good idea, as it also allows me to easily let people know when a new release has came out for AvalonScript. And thus... AvalonScript was born.
+`AvalonScript` was created mostly so that I had an easier time in role-playing on [DarkMyst](http://www.darkmyst.org) and other networks. Several of our players in `#Lysharia_OOC` have told me that I should make `AvalonScript` available to people that wants to use this script, after they learned what `AvalonScript` could do. After some serious thinking on my part, I realized this was a good idea, as it also allows me to easily let people know when a new release has came out for AvalonScript. And thus... AvalonScript was born.
+
+## Usage of AvalonScript
+
+`AvalonScript` uses `mIRC`, and is typically updated every time `mIRC` releases a new update to `mirc.exe` that we bundle with `AvalonScript`, which is a Windows-based program for IRC. `mIRC` has a 30-day trial period where you can use it for free during that time, but after that period of time expires, you're supposed to purchase a license key for it. There is, however a 50% off discount if you use [this code](http://www.mirc.com/register.php?coupon=MIRC-SWV0-MNKL).
+
+However, you could continue pressing the `X` button and ignore the insistence on registering `mIRC`... but that has the caveat of `mIRC v7.x` progressively making you wait longer between each start of `mIRC` before letting you click the OK button to continue using it without paying.
+
+I'd suggest purchasing a copy. $10 is cheap for a one-time license! Especially to get rid of that stupid nagging screen.
 
 **Features**
 
